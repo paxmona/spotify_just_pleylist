@@ -1,7 +1,7 @@
 # spotify_just_pleylist
 
 ## Overview
-Produce a playlist of your favorite songs for a time specified by the user.
+Produce a playlist of your favorite songs for a time specified by the user.<br>
 [usage](https://mona.click/247/)
 
 ## Requirement
@@ -26,6 +26,6 @@ PS C:\Users\mona>
 
 ## Author
 
-[twitter](https://twitter.com/paxmona)
-[blog](https://mona.click)
+[twitter](https://twitter.com/paxmona)<br>
+[blog](https://mona.click)<br>
 mail : info@mona.click
